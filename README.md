@@ -1,2 +1,2 @@
-#literate-spork
-This is a test repository.
+ #literate-spork
+This is a text repository.
